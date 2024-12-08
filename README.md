@@ -1,15 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Codefolio is an interactive, user-friendly platform designed for developers and coding enthusiasts. It allows users to sign in and write HTML, CSS, and JavaScript code in real time, with instant output previews. Users can explore a collection of pre-stored projects for inspiration, create and save their own projects, and revisit them anytime.
 
-## Available Scripts
+A powerful search functionality enables users to quickly find projects by their names, ensuring seamless navigation and discovery. Whether you're practicing your coding skills or building a portfolio of creative projects, Codefolio provides a dynamic space to experiment, learn, and showcase your work.
 
-In the project directory, you can run:
+##Prerequisites
 
-### `yarn start`
+Before running this project, ensure you have the following installed on your system:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Node.js: Download and Install Node.js
+##Yarn: Install Yarn globally using:
+## npm install --global yarn
+
+ npm install --global yarn
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
