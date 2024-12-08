@@ -1,11 +1,11 @@
-Codefolio
+##Codefolio
 Real-time Code Editor for HTML, CSS, and JavaScript
 
 Codefolio is an interactive, user-friendly platform designed for developers and coding enthusiasts. It allows users to sign in and write HTML, CSS, and JavaScript code in real-time with instant output previews. Users can also explore pre-stored projects for inspiration, create and save their own projects, and revisit them anytime.
 
 The platform includes a powerful search functionality that enables users to find projects by their names, ensuring seamless navigation and discovery. Whether you're practicing your coding skills or building a portfolio of creative projects, Codefolio offers a dynamic space to experiment, learn, and showcase your work.
 
-🚀 Features
+##🚀 Features
 ✍️ Real-time code editor: Write HTML, CSS, and JS with instant output preview.
 📁 Save and revisit projects: Create, save, and load your personal coding projects.
 🔍 Project search: Quickly find projects by their names.
@@ -18,7 +18,7 @@ Yarn — Install Yarn globally using:
 bash
 Copy code
 npm install --global yarn
-📦 Project Setup
+##📦 Project Setup
 Follow the steps below to set up and run the project locally.
 
 1️⃣ Clone the Repository
