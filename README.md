@@ -154,7 +154,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## ✨ Contact
 If you have any questions or suggestions, feel free to open an issue or contact:  
-📧 Your Email
+📧 alisadaf434@gmail.com
 ```
-
-This is now a markdown file, perfect for a `README.md` file in your GitHub project. Let me know if you need anything further!
